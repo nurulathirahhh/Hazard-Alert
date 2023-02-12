@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Report Apps</string>
+    <string name="title_activity_hazard">Hazard</string>
+    <string name="title_activity_hazard_maps">HazardMaps</string>
+    <string name="title_activity_view_maps">ViewMaps</string>
+</resources>
